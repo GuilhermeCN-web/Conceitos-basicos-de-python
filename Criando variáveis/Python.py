@@ -1,0 +1,2 @@
+Nome = "Mario"
+Trabalho = "Encanador"
